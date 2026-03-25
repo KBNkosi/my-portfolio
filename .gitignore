@@ -1,0 +1,20 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor/IDE Files
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+*.bak
+*.tmp
+*.log
+
+
+# Sensitive Information/Environment Variables
+.env
+.env.local

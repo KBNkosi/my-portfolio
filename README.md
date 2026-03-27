@@ -19,7 +19,7 @@ The goal is to communicate both **what I have built** and **how I approach build
 
 ## 🚀 Live Demo
 
-[View the live portfolio](https://your-username.github.io/portfolio-codecademy) *(Update with actual deployment URL)*
+[View the live portfolio](https://kbnkosi.github.io/my-portfolio/)
 
 ---
 
